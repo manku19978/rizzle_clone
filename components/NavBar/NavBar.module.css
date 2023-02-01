@@ -1,0 +1,26 @@
+.logoContainer {
+  width: 90px;
+  margin-right: 48px;
+}
+
+.navList {
+  gap: 48px;
+}
+
+.navItem {
+  font-weight: 600;
+}
+
+.wrapper {
+  padding: 24px 0;
+}
+
+.newTag {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 5px 8px;
+  background: var(--white);
+  color: var(--black);
+  border-radius: 46px;
+  margin-left: 6px;
+}
