@@ -1,0 +1,8 @@
+.github
+.next
+.vscode
+node_modules
+buildspec.yml
+Dockerfile
+Jenkinsfile
+startup.sh
